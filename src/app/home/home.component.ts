@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { HousingLocation } from '../housinglocation';
 
 @Component({
   selector: 'app-home',
